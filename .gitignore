@@ -1,9 +1,7 @@
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# Object file
+*.o
 
+<<<<<<< HEAD
 ### macOS ###
 # General
 .DS_Store
@@ -32,3 +30,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+=======
+# Ada Library Information
+*.ali
+>>>>>>> parent of 5d7e706 (Убран macOS и Jekyll)
